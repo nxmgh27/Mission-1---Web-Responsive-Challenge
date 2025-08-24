@@ -1,3 +1,5 @@
+<img width="1888" height="911" alt="image" src="https://github.com/user-attachments/assets/e9ea6d28-28c8-4152-ac16-b72dc1f1236f" />
+
 # Landing Page Portofolio
 
 ## a. Penjelasan Singkat
